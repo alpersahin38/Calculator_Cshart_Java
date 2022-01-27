@@ -1,11 +1,11 @@
-C# Graphing Calculator based on LES
+JAVA Graphing Calculator based on LES
 ===================================
 
 ![Screenshot](Screenshots/Basic.png)
 
 I made a nice calculator in three days based on the LES language. LES is meant to be a "universal" expression language, so it's useful for a variety of different projects that need to parse "expressions", such as a graphing calculator. Since the parser comes from the Loyc.Syntax library, I didn't have to make an expression parser for the calculator itself.
 
-Instead I was able to focus on making the best darn calculator I could in as few lines of code as I could. In addition, the computational part reduces the lines of code further using Enhanced C#. However, most of the program is written in plain C#.
+Instead I was able to focus on making the best darn calculator I could in as few lines of code as I could. In addition, the computational part reduces the lines of code further using Enhanced C#. However, most of the program is written in plain JAVA.
 
 What is LES?
 ------------
